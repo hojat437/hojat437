@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hojat
-- 👀 I’m interested in ... js
-- 🌱 I’m currently learning ...js
+- 👀 I’m interested in ... python
+- 🌱 I’m currently learning ...python
 - 📫 How to reach me ...on Instagram hojat0_078
 
 <!---
